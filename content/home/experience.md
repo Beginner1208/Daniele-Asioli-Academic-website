@@ -23,11 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Associate Professor in Agri-Food Economics and Marketing
+  company: University of Padua, Italy, Italy
+  company_url: 'https://www.unipd.it/en/'
+  #company_logo: org-x
+  location: Padua, Italy
+  date_start: '2025-09-01'
+  date_end: ''
+  #description: Teaching: Research Methods and Data Analysis, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
+
+- title: Associate Professor in Agri-Food Economics and Marketing
   company: Department of Agri-Food Economics and Marketing, University of Reading
   company_url: 'https://www.reading.ac.uk/apd/'
   #company_logo: org-x
   location: Reading, United Kingdom
   date_start: '2022-08-01'
+  date_end: '2025-08-31'
   date_end: ''
   #description: Teaching: Research Methods and Data Analysis, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
 
