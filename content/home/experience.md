@@ -37,6 +37,12 @@ experience:
   location: Reading, United Kingdom
   date_start: '2025-09-01'
 
+- title: Visiting Scholar
+  company: Department of Agricultural, Food, and Resource Economics, Michigan State University
+  company_url: 'https://www.canr.msu.edu/index'
+  location: East Lansing, United States
+  date_start: '2025-05-20'
+  date_end: '2025-06-12'
 
 - title: Associate Professor in Agri-Food Economics and Marketing
   company: Department of Agri-Food Economics and Marketing, University of Reading
