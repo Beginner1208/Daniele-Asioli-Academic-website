@@ -34,7 +34,7 @@ experience:
 - title: Visiting Research Fellow
   company: Department of Agricultural, Food, and Resource Economics, Michigan State University
   company_url: 'https://www.reading.ac.uk/apd/'
-  location: Reading, United Kingdom
+  location: East Lansing, United States
   date_start: '2025-09-01'
 
 - title: Visiting Scholar
@@ -50,7 +50,7 @@ experience:
   #company_logo: org-x
   location: Reading, United Kingdom
   date_start: '2022-08-01'
-  date_end: '2025-08-31'
+  date_end: '2025-08-01'
   date_end: ''
   #description: Teaching: Research Methods and Data Analysis, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
 
@@ -80,7 +80,7 @@ experience:
   company_url: 'https://www.reading.ac.uk/apd/'
   location: Reading, United Kingdom
   date_start: '2018-01-03'
-  date_end: '2022-08-01'
+  date_end: '2022-07-01'
   #description: Teaching: Research Methods and Data Analysis, Economics III, and Contemporary Issues in Consumer Behaviour and Marketing.
 
 - title: Visiting Lecturer
@@ -91,7 +91,7 @@ experience:
   date_end: '2023-05-26'
 
 - title: Visiting Lecturer
-  company: IAMZ – CIHEAM
+  company: Mediterranean Agronomic Institute of Zaragoza (IAMZ) – International Centre for Advanced Mediterranean Agronomic Studies(CIHEAM)
   company_url: 'https://www.iamz.ciheam.org/'
   location: Zaragoza, Spain
   date_start: '2022-02-28'
@@ -105,7 +105,7 @@ experience:
   date_end: '2020-01-10'
 
 - title: Visiting Lecturer
-  company: School of Economics and Business - Norwegian University of Life Science
+  company: School of Economics and Business, Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/en/faculties/economics-business'
   location: Aas, Norway
   date_start: '2019-06-10'
