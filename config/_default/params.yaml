@@ -19,15 +19,16 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Dr Daniele Asioli
+email: daniele.asioli@unipd.it
 
 address:
-  street: School of Agriculture Policy and Development, University of Reading.
-  city: Reading
-  region: England
-  postcode: 'RG6 6EU'
-  country: United Kingdom
-  country_code: UK
+  street: Department of Land, Environment, Agriculture and Forestry (TESAF),University of Padua (UniPD) 
+Viale dell'Università, 16
+  city: Padua
+  region: 
+  postcode: '35020'
+  country: Italy
+  country_code: IT
 map:
   provider: '' #mapnik
   api_key: ''
