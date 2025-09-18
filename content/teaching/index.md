@@ -13,7 +13,7 @@ title: Teaching Experience
 {{< /display_table_csv >}}
 
 
-<h2>Post Regular teaching:</h2>
+<h2>Past Regular teaching:</h2>
 
 {{< display_table_csv "static/regularteaching.csv" >}}
 
