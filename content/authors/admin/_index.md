@@ -12,7 +12,7 @@ role: Associate Professor in Agri-Food Economics and Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Padova
+- name: University of Padua
   url: https://www.unipd.it/en/
 
 # Short bio (displayed in user profile at end of posts)
