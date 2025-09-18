@@ -12,8 +12,8 @@ role: Associate Professor in Agri-Food Economics and Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Reading
-  url: https://www.reading.ac.uk/apd/staff/d-asioli.aspx
+- name: University of Padova
+  url: https://www.unipd.it/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main interests deal with agrifood marketing, behavioural economics, consumer research methods, economics of food, food policy, new food product development, new technologies, and multivariate statistical data analysis.
@@ -75,7 +75,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "daniele.asioli@unipd.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
