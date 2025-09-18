@@ -37,7 +37,7 @@ design:
 
 **Regular courses:**
 
-{{< display_table_csv "static/regularteaching.csv" >}}
+{{< display_table_csv "static/Italy teaching.csv" >}}
 
 {{< /display_table_csv >}}
 
