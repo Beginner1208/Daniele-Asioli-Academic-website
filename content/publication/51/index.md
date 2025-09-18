@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Investigating consumers views on foods from soilless farming systems: A review of the literature and discussion of implications and recommendations'
+title: 'Impact of different carbon labels on consumer inference'
 subtitle: ''
 summary: ''
 authors:
