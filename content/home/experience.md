@@ -51,7 +51,6 @@ experience:
   location: Reading, United Kingdom
   date_start: '2022-08-01'
   date_end: '2025-08-01'
-  date_end: ''
   #description: Teaching: Research Methods and Data Analysis, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
 
 - title: Visiting Scholar
