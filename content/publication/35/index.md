@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Are consumers willing to pay for <i>in‐vitro</i> meat? An investigation of naming effects'
+title: 'Are consumers willing to pay for in‐vitro meat? An investigation of naming effects'
 subtitle: ''
 summary: ''
 authors:
