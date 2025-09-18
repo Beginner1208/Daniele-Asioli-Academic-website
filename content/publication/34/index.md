@@ -5,10 +5,10 @@ title: 'Enabling sustainable plant-forward transition: European consumer attitud
 subtitle: ''
 summary: ''
 authors:
+- Marija Banovic
+- Ada Maria Barone
 - admin
-- Quoc Cuong Nguyen 
-- Paula Varela 
-- Tormod Næs
+- Simona Grasso
 
 tags: []
 categories: []
