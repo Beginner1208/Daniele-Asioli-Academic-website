@@ -22,12 +22,13 @@ twitter: ''
 email: daniele.asioli@unipd.it
 
 address:
-  street: Department of Land, Environment, Agriculture and Forestry (TESAF),University of Padua (UniPD) Viale dell'Università, 16
-  city: Padua
-  region: Provincia di Padova
+  street: Department of Land, Environment, Agriculture and Forestry (TESAF), University of Padua (UniPD), Viale dell'Università, 16
+  city: Legnaro
+  region:
   postcode: '35020'
   country: Italy
   country_code: IT
+
 map:
   provider: '' #mapnik
   api_key: ''
