@@ -39,5 +39,5 @@ projects: []
 publication_types: 
 - '2'
 abstract: 'Not availiable'
-publication: '**ECONOMIA AGRO-ALIMENTARE**'
+publication: '**Economia Agro-Alimentare**'
 ---
