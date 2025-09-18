@@ -30,4 +30,4 @@ url_video: ""
 #slides: example
 ---
 
-The School of Agriculture, Policy and Development of the University of Reading (UoR) is the lead partner in the Transforing UK Food System project UKFoodTrade. The implementation of the UKFoodTrade project started on 1 September 2022 and will end on 31 August 2025. The total value of the project is £ 696,804. The project aims to develop a blueprint for a coordinated set of fiscal and trade policy interventions along with structural changes to food supply and value chains and industry-led initiatives for supporting the transition to healthy and sustainable diets.
+The School of Agriculture, Policy and Development of the University of Reading (UoR) is the lead partner in the Transforing UK Food System project UKFoodTrade. The implementation of the UKFoodTrade project started on 1 September 2022 and will end on 31 December 2025. The total value of the project is £ 696,804. The project aims to develop a blueprint for a coordinated set of fiscal and trade policy interventions along with structural changes to food supply and value chains and industry-led initiatives for supporting the transition to healthy and sustainable diets.
