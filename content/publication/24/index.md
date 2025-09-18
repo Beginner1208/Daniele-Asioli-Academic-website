@@ -37,5 +37,5 @@ projects: []
 publication_types: 
 - '2'
 abstract: 'The past decades have seen the development of a multitude of sustainability-related food labels aimed at reducing the existing information asymmetry between food practitioners and consumers regarding the sustainability impact on the food supply chain. Sustainability-related food labels can correct market failures and contribute to a more sustainable world. This review discusses the effectiveness of sustainability-related food labels in promoting more sustainable food consumption around the world. We start by discussing the sustainable development goals in the food area and the challenge of defining these labels. We then investigate the demand-and supply-side issues related to the effectiveness of such labels in promoting the sustainable development goals that the labels serve. Finally, we discuss the questions raised by the state of research and their implications for food practitioners, consumers, and policy makers. We then identify future research avenues.'
-publication: '**The Annual Review of Resource Economics**'
+publication: '**Annual Review of Resource Economics**'
 ---
