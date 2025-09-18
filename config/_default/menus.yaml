@@ -20,9 +20,9 @@ main:
   #  url: '#bookchap'
   #  weight: 25   
     
-  - name: Work in progress
-    url: '#wpapers'
-    weight: 30   
+##  - name: Work in progress
+##    url: '#wpapers'
+##    weight: 30   
 
   #- name: Mimeos
   #  url: '#mimeo'
@@ -48,9 +48,9 @@ main:
     weight: 60
 
 
-  - name: Link and resources
-    url: linksresources
-    weight: 70
+##  - name: Link and resources
+##    url: linksresources
+##    weight: 70
 
 
   - name: Contact
