@@ -32,9 +32,9 @@ experience:
   #description: Teaching: Research Methods and Data Analysis, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
 
 - title: Visiting Research Fellow
-  company: Department of Agricultural, Food, and Resource Economics, Michigan State University
+  company: Department of Agri-Food Economics and Marketing, University of Reading
   company_url: 'https://www.reading.ac.uk/apd/'
-  location: East Lansing, United States
+  location: Reading, United Kingdom
   date_start: '2025-09-01'
 
 - title: Visiting Scholar
