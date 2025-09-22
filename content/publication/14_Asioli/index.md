@@ -18,7 +18,7 @@ lastmod: 2016-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-  - name: Full text
+- name: Full text
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0950329316301434"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
