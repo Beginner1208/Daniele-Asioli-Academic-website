@@ -7,7 +7,7 @@ superuser: true
 highlight_superuser: true.
 
 # Role/position/tagline
-role: Associate Professor in Agri-Food Economics and Marketing <br> Department of Land, Environment, Agriculture and Forestry
+role: "Associate Professor in Agri-Food Economics and Marketing <br> Department of Land, Environment, Agriculture and Forestry"
 
 
 # Organizations/Affiliations to show in About widget
