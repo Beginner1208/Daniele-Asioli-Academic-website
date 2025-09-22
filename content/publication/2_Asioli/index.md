@@ -18,8 +18,8 @@ lastmod: 2011-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "2 - Asioli et al.pdf"
+- name: Full text
+  url: "https://www.researchgate.net/publication/227366523_Local_and_Sustainable_Food_Supply_The_Role_of_European_Retail_Consumer_Co-operatives"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
