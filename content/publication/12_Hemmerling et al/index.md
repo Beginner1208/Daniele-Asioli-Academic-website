@@ -18,8 +18,8 @@ lastmod: 2016-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "12 - Hemmerling et al.pdf"
+- name: Full text
+  url: "https://www.tandfonline.com/doi/full/10.1080/10454446.2015.1121428"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
