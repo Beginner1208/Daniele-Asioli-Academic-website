@@ -19,8 +19,8 @@ lastmod: 2018-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "21- Asioli et al.pdf"
+- name: Full text
+  url: "https://www.aimspress.com/article/10.3934/agrfood.2018.3.327"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
