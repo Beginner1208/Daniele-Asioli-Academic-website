@@ -17,8 +17,8 @@ lastmod: 2024-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "47 - Lemken et al.pdf"
+- name: Full text
+  url: "https://onlinelibrary.wiley.com/doi/10.1002/bse.3916?msockid=1bb123824c5b688819ae36db4de069dc"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
