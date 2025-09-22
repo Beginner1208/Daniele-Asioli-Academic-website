@@ -8,7 +8,7 @@ authors:
 - Shaosheng Jin 
 - Qianqian Zhai 
 - Rao Yuan 
-- Daniele Asioli 
+- admin
 - Rodolfo M. Nayga
 tags: []
 categories: []
