@@ -21,8 +21,8 @@ lastmod: 2025-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "50 - D'Adamo et al.pdf"
+- name: Link
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0195666325000170?via%3Dihub"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
