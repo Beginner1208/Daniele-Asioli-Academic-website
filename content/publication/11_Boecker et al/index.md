@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Could there be Unintended Effects of Government Support for Seafood Traceability Implementation on Business Planning? Results of a Survey among Italian Fishery Businesses'
+title: 'Could there be unintended effects of Government support for seafood traceability Implementation on business planning? Results of a survey among Italian fishery businesses'
 subtitle: ''
 summary: ''
 authors:
