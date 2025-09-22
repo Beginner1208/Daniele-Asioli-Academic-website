@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Consumers’ valuation of cultured beef Burger: A Multi-Country investigation using choice experiments'
+title: 'Consumers’ valuation of cultured beef burger: A Multi-Country investigation using choice experiments'
 subtitle: ''
 summary: ''
 authors:
