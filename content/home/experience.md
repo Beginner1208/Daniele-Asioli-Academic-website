@@ -61,7 +61,7 @@ experience:
   date_end: '2024-09-12'
 
 - title: Visiting Scholar
-  company: Marketing and Consumer Behaviour, Wageningen University
+  company: Marketing and Consumer Behaviour, Wageningen University & Research 
   company_url: 'https://www.wur.nl/en/research-results/chair-groups/social-sciences/marketing-and-consumer-behaviour-group.htm'
   location: Wageningen, The Netherlands
   date_start: '2024-05-27'
@@ -90,7 +90,7 @@ experience:
   date_end: '2023-05-26'
 
 - title: Visiting Lecturer
-  company: Mediterranean Agronomic Institute of Zaragoza (IAMZ) – International Centre for Advanced Mediterranean Agronomic Studies(CIHEAM)
+  company: Mediterranean Agronomic Institute of Zaragoza (IAMZ) – International Centre for Advanced Mediterranean Agronomic Studies (CIHEAM)
   company_url: 'https://www.iamz.ciheam.org/'
   location: Zaragoza, Spain
   date_start: '2022-02-28'
@@ -106,14 +106,14 @@ experience:
 - title: Visiting Lecturer
   company: School of Economics and Business, Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/en/faculties/economics-business'
-  location: Aas, Norway
+  location: Ås, Norway
   date_start: '2019-06-10'
   date_end: '2019-06-21'
 
 - title: Visiting Researcher
   company: Consumer and Sensory Science, Nofima AS
   company_url: 'https://nofima.com/department/innovation-consumer-and-sensory-sciences/'
-  location: Aas, Norway
+  location: Ås, Norway
   date_start: '2018-06-11'
   date_end: '2018-06-22'
 
@@ -132,23 +132,23 @@ experience:
   date_end: '2014-05-31'
 
 - title: Marie-Sklodowska Curie Research Fellow
-  company: School of Economics and Business - Norwegian University of Life Science
+  company: School of Economics and Business, Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/en/faculties/economics-business'
-  location: Aas, Norway
+  location: Ås, Norway
   date_start: '2014-03-01'
   date_end: '2017-12-31'
 
 - title: Marie-Sklodowska Curie Research Fellow
   company: Consumer and Sensory Science, Nofima AS
   company_url: 'https://nofima.com/department/innovation-consumer-and-sensory-sciences/'
-  location: Aas, Norway
+  location: Ås, Norway
   date_start: '2014-03-01'
   date_end: '2017-12-31'
 
 - title: Post-Doctoral Fellow
   company: Consumer and Sensory Science, Nofima AS
   company_url: 'https://nofima.com/department/innovation-consumer-and-sensory-sciences/'
-  location: Aas, Norway
+  location: Ås, Norway
   date_start: '2013-02-01'
   date_end: '2013-10-31'
 
