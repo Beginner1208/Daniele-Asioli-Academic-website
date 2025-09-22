@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Simona Grasso 
-- Daniele Asioli 
+- admin
 - Rachel Smith
 
 tags: []
