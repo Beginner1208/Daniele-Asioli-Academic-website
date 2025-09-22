@@ -37,5 +37,5 @@ projects: []
 publication_types: 
 - '2'
 abstract: 'This study uses an experimental vignette methodology to investigate and compare, for the first time, consumer food waste (FW) decisions in the UK and Thailand. Specifically, we examine consumers’ decisions to discard leftovers during meal scenarios affected by varying economic and contextual factors. Different consumer segments are identified and characterised, and our results suggest that consumers in the UK and Thailand are more likely to save leftovers when dining at home, when meals are expensive, and when a whole meal is left over. We discuss these findings and provide recommendations for practitioners and policymakers aiming to reduce FW.'
-publication: '**Q Open**'
+publication: '**Qopen - A Journal of Agricultural, Climate, Environmental, Food, Resource, and Rural Development Economics**'
 ---
