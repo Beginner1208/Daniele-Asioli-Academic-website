@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fruit Branding: Exploring Factors Affecting Adoption of the New Pear Cultivar ‘Angelys’ in Italian Large Retail'
+title: 'Fruit Branding: Exploring factors affecting adoption of the new pear variety Angelys® in Italian large retail'
 subtitle: ''
 summary: ''
 authors:
