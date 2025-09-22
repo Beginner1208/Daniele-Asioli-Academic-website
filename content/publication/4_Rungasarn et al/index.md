@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ' Gatekeepers Perceptions of Thai Geographical Indication Products in Europe'
+title: 'Gatekeepers Perceptions of Thai Geographical Indication Products in Europe'
 subtitle: ''
 summary: ''
 authors:
@@ -18,8 +18,8 @@ lastmod: 2012-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "4 - Rungasarn et al.pdf"
+- name: Full text
+  url: "https://www.tandfonline.com/doi/abs/10.1080/08974438.2012.691790"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
