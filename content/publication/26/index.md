@@ -17,8 +17,8 @@ lastmod: 2020-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "26 - Rondoni et al.pdf"
+- name: Full text
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0924224420306610"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
