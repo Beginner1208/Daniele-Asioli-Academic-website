@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Associate Professor in Agri-Food Economics and Marketing
-  company: University of Padua, Italy, Italy
+  company: Department of Land, Environment, Agriculture and Forestry, University of Padua, Italy
   company_url: 'https://www.unipd.it/en/'
   #company_logo: org-x
   location: Padua, Italy
