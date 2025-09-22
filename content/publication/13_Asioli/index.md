@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Guest editorial'
+title: 'The Norwegian food market: main issues and trends'
 subtitle: ''
 summary: ''
 authors:
@@ -36,6 +36,8 @@ projects: []
 #publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '2'
-abstract: 'not availiable.'
+abstract: 'The Norwegian food market is dominated by domestic producers and retailers. Norway is not part of the EU and Norwegian agricultural production is protected from foreign competitors with tariffs and quotas. The agricultural and food prices are higher than in neighbouring countries, and there is very little export of agricultural products from Norway. However, there is a substantial boarder trade with the other Nordic countries, so the Norwegian producers and retailers needs to do well in their home market. The food industry is concentrated with few producers of meat and dairy products. For processed food products, the picture is different. Even though domestic producers also dominate, there is a larger share of imported products than in the meat and dairy sectors. Three Norwegian retail chains have approximately 95 per cent of the retail food market. Foreign retailers that have entered the Norwegian market, such as the Swedish ICA and the German Lidl chains, have subsequently withdrawn from the market. Domestic producers and retailers have a home advantage, not only from quotas and tariffs, but also from apparent strong consumer preferences for domestic products. To further develop this advantage, they need a current knowledge of consumer preferences and trends. They also need more knowledge about food service providers, which is an increasingly important sector.
+This special section of issue 10 of the British Food Journal contains four manuscripts on food economics and marketing presented at the 2nd Norwegian Food Market Research Conference held at Ås, Norway in November 2015. The manuscripts include studies of the role of origin as an extrinsic cue, a view on food service providers, and a consumer study of functional food, the latter a non-Norwegian study. The four papers uses both qualitative and quantitative research methods, including interviews, surveys and an experimental auction.
+This special section will hopefully be of interest to academics and stakeholders who have an interest in food economics and marketing.'
 publication: '**British Food Journal**'
 ---
