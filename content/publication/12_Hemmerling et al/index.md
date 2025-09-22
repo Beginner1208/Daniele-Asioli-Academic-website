@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Core Organic Taste: Preferences for Naturalness-Related Sensory Attributes of Organic Food Among European Consumers'
+title: 'Core Organic Taste: Preferences for naturalness-related sensory attributes of organic food among European consumers'
 subtitle: ''
 summary: ''
 authors:
