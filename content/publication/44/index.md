@@ -17,8 +17,8 @@ lastmod: 2023-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
-- name: Get PDF
-  url: "44_Walter et al.pdf"
+- name: Full text
+  url: "https://academic.oup.com/qopen/article/3/2/qoad020/7225523"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
