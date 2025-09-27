@@ -36,7 +36,7 @@ projects: []
 #publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '2'
-abstract:'We explore sensory experiences and expectations of Italian and German organic consumers when purchasing and eating organic food. Ten focus group interviews were performed and the results were analyzed using qualitative content analysis. Outcomes indicated that although sensory attributes are not the main purchase drivers, flavor and odor are the most important in driving consumers choice. Findings also suggested that training consumers sensory abilities offers new market opportunities to organic marketers. From a marketing perspective, Italian consumers seem to equally appreciate nonsubjective as well as subjective marketing information about organic products, whereas in Germany non subjective aspects appear to be predominant.'
+abstract:'2'
 
 publication: '**Die Bodenkultur: Journal of Land Management, Food and Environment**'
 ---
