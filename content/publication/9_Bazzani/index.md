@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Claudia Bazzani
+- admin
 - Maurizio Canavari
 - Elisabetta Gozzoli
-- admin
 
 
 tags: []
