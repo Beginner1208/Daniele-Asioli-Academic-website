@@ -5,10 +5,9 @@ title: 'Comparison of rating-based and choice-based conjoint analysis models. A 
 subtitle: ''
 summary: ''
 authors:
-- admin 
-- V.L. Almli
-- T. Næs
-
+- admin
+- T. Næs A. Øvrum
+- V.L. Almli aì
 
 tags: []
 categories: []
