@@ -36,6 +36,6 @@ projects: []
 #publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '2'
-abstract:'The article explores experiences and expectations of organic producers regarding consumer-relevant information pertaining to the sensory properties of organic products. Individual interviews of ten prominent Italian organic producers were conducted and analysed, using both a qualitative and quantitative content analysis, and conceptual mapping. Results reveal that organic producers generally perform sensory analyses in a non-systematic and non-standardised way. However, despite high costs and lack of expertise associated with such tests, producers expressed the necessity to increase the use of these analyses on their products and to improve their reliability in order to better identify and meet the needs of consumers. The undesirable variation in sensory features of organic products during the shelf life was highlighted, and the need for training initiatives to improve consumer's sensory knowledge and awareness was also expressed. From these findings, suggestions for further future research are provided.'
+abstract:''
 publication: '**Die Bodenkultur: Journal of Land Management, Food and Environment**'
 ---
