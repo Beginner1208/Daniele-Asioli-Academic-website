@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Agnese Rondoni 
 - Elena Millan 
-- Daniele Asioli
+- admin
 
 tags: []
 categories: []
