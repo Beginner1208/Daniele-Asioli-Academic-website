@@ -36,6 +36,6 @@ projects: []
 #publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '2'
-abstract: 'The article explores experiences and expectations of organic producers regarding consumer-relevant information pertaining to the sensory properties of organic products.'
+abstract: 'The article explores experiences and expectations of organic producers regarding consumer-relevant information pertaining to the sensory properties of organic products.Individual interviews of ten prominent Italian organic producers were conducted and analysed, using both a qualitative and quantitative content analysis, and conceptual mapping.'
 publication: '**Die Bodenkultur: Journal of Land Management, Food and Environment**'
 ---
