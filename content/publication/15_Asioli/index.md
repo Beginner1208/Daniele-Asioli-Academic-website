@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- T. Næs A. Øvrum
+- T. Næs
+- A. Øvrum
 - V.L. Almli aì
 
 tags: []
