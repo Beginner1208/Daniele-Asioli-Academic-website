@@ -8,7 +8,7 @@ authors:
 - Rao Yuan
 - Admin
 - Shaosheng Jin
-- Rodolfo M. Nayga Jr.
+- Rodolfo M.Nayga
 
 tags: []
 categories: []
@@ -41,3 +41,4 @@ abstract: 'Despite the rising interest in cultured meat, there remains scant inf
 publication: '**Journal of the Agricultural and Applied Economics Association**'
 
 ---
+
