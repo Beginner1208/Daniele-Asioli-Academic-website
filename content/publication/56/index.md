@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Consumers' valuation for cultured meat: A multi-city choice experiment in China'
+title: 'Consumers valuation for cultured meat: A multi-city choice experiment in China'
 subtitle: ''
 summary: ''
 authors:
@@ -19,7 +19,7 @@ featured: false
 draft: false
 links: 
 - name: Full text
-  url: "https://onlinelibrary.wiley.com/doi/10.1111/1477-9552.70008"
+  url: "https://onlinelibrary.wiley.com/doi/10.1002/jaa2.70028"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: 'Despite the rising interest in cultured meat, there remains scant information on whether consumers would value it. This study evaluated consumers willingness-to-pay (WTP) for cultured chicken and examined how information affects WTP. Using a choice experiment with a total of 571 samples, the results found that consumers are unwilling to pay a premium price for cultured chicken. The provision of information significantly enhances consumers WTP, resulting in an increase of 8.66RBM/500 g for cultured chicken. Consumers who are younger, males, have higher environmental awareness, and exhibit lower levels of new food neophobia are willing to pay more for cultured meat.'
 publication: '**Journal of the Agricultural and Applied Economics Association**'
+
 ---
