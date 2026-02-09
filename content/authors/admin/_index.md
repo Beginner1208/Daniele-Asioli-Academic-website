@@ -82,16 +82,15 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Dr. Daniele Asioli is Associate Professor in Agri-Food Economics and Marketing at the Department of Land, Environment, Agriculture and Forestry, University of Padua (Italy), and Visiting Research Fellow at the Department of Agri-Food Economics and Marketing, University of Reading (United Kingdom). He also co-directs his family farm and works as a consultant for food businesses, governments, and institutions.
+Dr. Daniele Asioli is an Associate Professor in Agri-Food Economics and Marketing at the University of Padua (Italy), and Visiting Researcher at University of Reading (United Kingdom). He also co-directs his family farm and works as a consultant for food businesses, governments, and institutions.
+
+He studies what consumers eat and why. As a food and agricultural economist, he looks at how consumers respond to new foods and food technologies, and how those choices shape the food supply chain system - from what companies make to how farmers are ultimately affected.
 
 Before joining the University of Padua, he spent eight years at the University of Reading as Associate Professor and Lecturer, and four years as a Marie Curie Fellow at Nofima AS and the Norwegian University of Life Sciences (Norway). He has also held research positions at the University of Bologna and Ca’ Foscari University of Venice (Italy), Nofima AS (Norway), the University of Guelph (Canada), and the University of Arkansas (USA).
 
 Dr. Asioli holds a BSc and MSc in Food Science and Technology from the University of Bologna, and a PhD in Agri-Food Economics and Policy from the University of Guelph (Canada) and the University of Bologna (2009).
-
 His professional experience also includes roles as Project Manager for the Emilia-Romagna Regional Government and the Province of Ravenna (Italy), as well as one year as Marketing Manager in the Italian food industry.
-
 He has contributed to several EU and national research projects. His research interests cover consumer preference elicitation methods, multivariate statistical techniques, food economics, policy and marketing, and innovative food products and technologies. Much of his work applies behavioural and experimental economics methods to address key questions in food and agricultural economics.
 
-Dr. Asioli has published more than 50 peer-reviewed articles in leading scientific journals, including Food Policy, Annual Review of Resource Economics, Journal of Agricultural Economics, Applied Economic Perspectives and Policy, Journal of the Agricultural and Applied Economics Association, Trends in Food Science and Technology, Journal of Choice Modelling, Current Opinion in Food Science, Food Quality and Preference, Agribusiness: An International Journal, Q Open, and Food Research International, among others.
-
-His work has been cited more than 3,500 times in journals such as Food Policy, Journal of Agricultural Economics, Food Quality and Preference, and Trends in Food Science and Technology, among others. Dr. Asioli is also a regular reviewer for numerous journals in agricultural economics and policy, including the American Journal of Agricultural Economics, Journal of Agricultural Economics, and Food Policy, as well as in food science, such as Food Quality and Preference and Trends in Food Science and Technology.
+Dr. Asioli has published more than 60 peer-reviewed articles in leading scientific journals, including Food Policy, Annual Review of Resource Economics, Journal of Agricultural Economics, Applied Economic Perspectives and Policy, Journal of the Agricultural and Applied Economics Association, Trends in Food Science and Technology, Journal of Choice Modelling, Current Opinion in Food Science, Food Quality and Preference, among others.
+His work has been cited more than 4,000 times in journals such as Food Policy, Journal of Agricultural Economics, Food Quality and Preference, and Trends in Food Science and Technology, among others. 
