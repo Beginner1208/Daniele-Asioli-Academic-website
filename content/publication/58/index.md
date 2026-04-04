@@ -10,7 +10,7 @@ authors:
 - Jia Han
 - Quoc Cuong Nguyen
 - Massimiliano, Petracci
-- Rodolfo M., Nayga Jr.
+- Rodolfo M, Nayga Jr
 
 tags: []
 categories: []
