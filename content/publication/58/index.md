@@ -9,8 +9,8 @@ authors:
 - Wei Yang
 - Jia Han
 - Quoc Cuong Nguyen
-- Massimiliano, Petracci
-- Rodolfo M, Nayga Jr
+- Massimiliano Petracci
+- Rodolfo M Nayga Jr
 
 tags: []
 categories: []
